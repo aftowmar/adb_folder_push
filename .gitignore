@@ -1,0 +1,5 @@
+*.exe
+*.dll
+platform-tools/source.properties
+platform-tools/mke2fs.conf
+platform-tools/NOTICE.txt
