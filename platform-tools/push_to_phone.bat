@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
-set "SOURCE=C:\Users\mjaft\Pictures\iCloud Photos\Photos"
-set "TARGET=storage/emulated/0/Download/iCloud"
+set "SOURCE=C:\Users\user\Pictures"
+set "TARGET=storage/emulated/0/DCIM"
 set "LIST=diff.txt"
 
 :: Count total number of lines (files)
